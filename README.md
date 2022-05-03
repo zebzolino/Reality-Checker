@@ -26,3 +26,20 @@ Downloading [MAC] [Untested]
 Contributing
 ------------
 You are allowed to contribute or anything related **as long** as you give credits.
+
+
+Preview/Screenshots
+------------
+![image](https://user-images.githubusercontent.com/47001560/166504811-504a74bc-ce48-4604-9b4f-fa595514e2ff.png)
+![image](https://user-images.githubusercontent.com/47001560/166504916-94eb2699-9c95-46de-a5eb-87eb6e158770.png)
+![image](https://user-images.githubusercontent.com/47001560/166504969-dc960608-ebdc-41c0-ac7b-5db4ba1a9a48.png)
+
+
+Autostart [Windows]
+------------
+**You can autostart the program to automatically open it, you will stil have to manually enable it.**
+
+    1. Make a shortcut of the main executeable (Reality Check.exe)
+    2. Press Windows + R and type Shell:Startup then press Ok
+    3. Once your in the startup folder, paste the shortcut you copied.
+    4. The program now starts automatically every time your computer starts.
