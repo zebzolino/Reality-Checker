@@ -6,8 +6,6 @@ Reality Checker is a program designed to help users with their reality checks.
 
 Installing [Windows]
 ----------
-Open cmd with administrator privilliges
-
     1. https://github.com/zebzolino/Reality-Checker/releases
     2. Place in your desired location
     3. Done!
