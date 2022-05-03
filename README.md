@@ -1,6 +1,6 @@
 Reality Checker
-
 ====
+
 
 Reality Checker is a program designed to help users with their reality checks.
 
