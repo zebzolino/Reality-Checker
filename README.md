@@ -1,16 +1,14 @@
+<img src="https://user-images.githubusercontent.com/47001560/166706710-5b400d9d-1e99-4072-90c2-55fa9d1ed5d3.png" width="400" height="400" />
+
 Reality Checker
-====
-
-
+----------
 Reality Checker is a program designed to help users with their reality checks.
 
-Downloading [Windows]
-----------
-Note: Reality Check.dll shows up as a false positive.
+### Downloading [Windows]  
     
     1. Download https://github.com/zebzolino/Reality-Checker/releases
     2. Place in your desired location
-    3. Done!
+    3. Note: Reality Check.dll shows up as a false positive.
     
     
 Downloading [Linux] [Untested]
