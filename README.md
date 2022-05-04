@@ -27,7 +27,7 @@ Downloading [MAC] [Untested]
 
 Contributing
 ------------
-You are allowed to contribute or anything related **as long** as you give credits.
+You are not allowed to contribute yet.
 
 
 Preview/Screenshots (OLD)
