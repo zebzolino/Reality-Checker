@@ -49,7 +49,7 @@ Autostart [Windows]
 
     1. Make a shortcut of the main executeable (Reality Check.exe)
     2. Press Windows + R and type Shell:Startup then press Ok
-    3. Once you're in the startup folder, paste the shortcut you copied.
+    3. Once you're in the startup folder, copy and paste the shortcut you made.
     4. The program now starts automatically every time your computer starts.
     
     
