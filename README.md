@@ -40,7 +40,6 @@ Preview/Screenshots (NEW)
 ------------
 ![image](https://user-images.githubusercontent.com/47001560/166695013-e058bb16-0697-4c0f-920a-0fdfdc72093d.png)
 ![image](https://user-images.githubusercontent.com/47001560/166695062-6afab7bc-d50c-43b4-a977-24bce926d990.png)
-![image](https://user-images.githubusercontent.com/47001560/166695121-1bf1ffc8-917a-4481-8fe9-05e9919ee1a0.png)
 ![image](https://user-images.githubusercontent.com/47001560/166695174-f6679773-1460-411b-8cb5-db60d805e551.png)
 
 
