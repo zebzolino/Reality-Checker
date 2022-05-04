@@ -6,6 +6,8 @@ Reality Checker is a program designed to help users with their reality checks.
 
 Downloading [Windows]
 ----------
+Note: Reality Check.dll shows up as a false positive.
+    
     1. Download https://github.com/zebzolino/Reality-Checker/releases
     2. Place in your desired location
     3. Done!
