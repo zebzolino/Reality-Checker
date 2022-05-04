@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/47001560/166706710-5b400d9d-1e99-4072-90c2-55fa9d1ed5d3.png" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/47001560/166706710-5b400d9d-1e99-4072-90c2-55fa9d1ed5d3.png" width="100" height="100" />
 
 Reality Checker
 ----------
