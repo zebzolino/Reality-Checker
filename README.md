@@ -4,24 +4,11 @@ Reality Checker
 ----------
 Reality Checker is a program designed to help users with their reality checks.
 
-### Downloading [Windows]  
+### Downloading 
     
     1. Download https://github.com/zebzolino/Reality-Checker/releases
     2. Place in your desired location
     3. Note: Reality Check.dll shows up as a false positive.
-    
-    
-Downloading [Linux] [Untested]
-----------
-    1. Install and configure wine. (https://github.com/wine-mirror/wine)
-    2. Download https://github.com/zebzolino/Reality-Checker/releases
-    3. Done! [Untested]
-    
-    
-Downloading [MAC] [Untested]
-----------
-    Downloading this Program/Software on MAC is currently not supported, but might become in the future.
-
 
 Contributing
 ------------
@@ -43,7 +30,7 @@ Preview/Screenshots (NEW)
 
 
 
-Autostart [Windows]
+Autostart
 ------------
 **You can autostart the program but you will still have to manually enable the timer.**
 
