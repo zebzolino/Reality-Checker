@@ -30,15 +30,17 @@ You are not allowed to contribute yet.
 
 Preview/Screenshots (OLD)
 ------------
-![image](https://user-images.githubusercontent.com/47001560/166504811-504a74bc-ce48-4604-9b4f-fa595514e2ff.png)
-![image](https://user-images.githubusercontent.com/47001560/166504916-94eb2699-9c95-46de-a5eb-87eb6e158770.png)
-![image](https://user-images.githubusercontent.com/47001560/166504969-dc960608-ebdc-41c0-ac7b-5db4ba1a9a48.png)
+![image](https://user-images.githubusercontent.com/47001560/167202088-7b7ab5d5-86d1-4ac8-a055-c570b059c502.png)
+![image](https://user-images.githubusercontent.com/47001560/167202134-5d6b5d92-fbc4-47f9-b028-c27b0e724a4e.png)
+![image](https://user-images.githubusercontent.com/47001560/167202192-20fb2758-03bb-47bf-8977-5f99dbc9adde.png)
 
 Preview/Screenshots (NEW)
 ------------
-![image](https://user-images.githubusercontent.com/47001560/166695013-e058bb16-0697-4c0f-920a-0fdfdc72093d.png)
-![image](https://user-images.githubusercontent.com/47001560/166695062-6afab7bc-d50c-43b4-a977-24bce926d990.png)
-![image](https://user-images.githubusercontent.com/47001560/166695174-f6679773-1460-411b-8cb5-db60d805e551.png)
+![image](https://user-images.githubusercontent.com/47001560/167201817-cc6a7c61-d3db-45a6-8b20-364b177d4f2e.png)
+![image](https://user-images.githubusercontent.com/47001560/167201893-f9067a7f-6fbd-4bad-ac26-b0893e4bcbc9.png)
+![image](https://user-images.githubusercontent.com/47001560/167201980-07c18551-3b87-4703-95e9-65adc884abc6.png)
+![image](https://user-images.githubusercontent.com/47001560/167202270-cdcbfca8-47f8-458c-a624-a058dc8fca84.png)
+
 
 
 Autostart [Windows]
