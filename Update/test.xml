@@ -3,5 +3,6 @@
   <version>1.4</version>
   <url>https://github.com/zebzolino/Reality-Checker/raw/main/Update.rar</url>
   <changelog>https://github.com/zebzolino/Reality-Checker/releases</changelog>
-  <mandatory>false</mandatory>
+  <mandatory mode="2">true</mandatory>
+  <mandatory minVersion="1.4">true</mandatory>
 </item>
