@@ -32,7 +32,8 @@ Preview/Screenshots (NEW)
 
 Autostart
 ------------
-**You can autostart the program but you will still have to manually enable the timer.**
+**You can autostart the program but you will still have to manually enable the alarm.**
+**In Version 1.5 it is most effective since it auto-enables the alarm.**
 
     1. Make a shortcut of the main executeable (Reality Check.exe)
     2. Press Windows + R and type Shell:Startup then press Ok
