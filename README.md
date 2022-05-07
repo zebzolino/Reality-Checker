@@ -43,5 +43,5 @@ Autostart
     
 Credits:
 ------------
-zebzolino
-
+Dev: zebzolino
+Sounds: Microsoft
