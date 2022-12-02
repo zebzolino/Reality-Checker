@@ -4,6 +4,8 @@ Reality Checker
 ----------
 Reality Checker is a program designed to help users with their reality checks.
 
+IMPORTANT NEWS: I accidentally lost the project, but I'm working on starting all over and making it even more functional and able to save the chosen time and more.
+
 ### Downloading 
     
     1. Download https://github.com/zebzolino/Reality-Checker/releases
