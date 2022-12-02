@@ -3,6 +3,8 @@
 Reality Checker
 ----------
 Reality Checker is a program designed to help users with their reality checks.
+<br>
+Discord Server: https://discord.gg/7QA6386H77
 
 ****IMPORTANT NEWS: I accidentally lost the project, but I'm working on starting all over and making it even more functional and able to save the chosen time and more.****
 
